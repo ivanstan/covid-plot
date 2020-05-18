@@ -1,891 +1,1532 @@
 [
  {
-   "Date": "2019-12-30",
+   "Date": "12/30/2019",
    "Rijeka": "37.7",
    "Split": "7.1",
    "Zagreb": "37.2",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2019-12-31",
+   "Date": "12/31/2019",
    "Rijeka": "38.1",
    "Split": "27.6",
    "Zagreb": "33.1",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-01",
+   "Date": "1/1/2020",
    "Rijeka": "28.5",
    "Split": "13.2",
    "Zagreb": "43.4",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-02",
+   "Date": "1/2/2020",
    "Rijeka": "41.7",
    "Split": "23.6",
    "Zagreb": "78.7",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-03",
+   "Date": "1/3/2020",
    "Rijeka": "36.1",
    "Split": "28.5",
    "Zagreb": "68.9",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-04",
+   "Date": "1/4/2020",
    "Rijeka": "NA",
    "Split": "NA",
    "Zagreb": "NA",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-05",
+   "Date": "1/5/2020",
    "Rijeka": "18.7",
    "Split": "6.6",
    "Zagreb": "43.2",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-06",
+   "Date": "1/6/2020",
    "Rijeka": "34.4",
    "Split": "8.9",
    "Zagreb": "71.7",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-07",
+   "Date": "1/7/2020",
    "Rijeka": "38.9",
    "Split": "32.2",
    "Zagreb": "69.6",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-08",
+   "Date": "1/8/2020",
    "Rijeka": "37.9",
    "Split": "26.7",
    "Zagreb": "71.7",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-09",
+   "Date": "1/9/2020",
    "Rijeka": "43.9",
    "Split": "29.7",
    "Zagreb": "80.2",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-10",
+   "Date": "1/10/2020",
    "Rijeka": "34.3",
    "Split": "32.3",
    "Zagreb": "84.6",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-11",
+   "Date": "1/11/2020",
    "Rijeka": "27.4",
    "Split": "27.3",
    "Zagreb": "88.1",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-12",
+   "Date": "1/12/2020",
    "Rijeka": "29.1",
    "Split": "30.1",
    "Zagreb": "53.7",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-13",
+   "Date": "1/13/2020",
    "Rijeka": "43.4",
    "Split": "30.1",
    "Zagreb": "53.3",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-14",
+   "Date": "1/14/2020",
    "Rijeka": "42",
    "Split": "43.8",
    "Zagreb": "43",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-15",
+   "Date": "1/15/2020",
    "Rijeka": "40.6",
    "Split": "41.9",
    "Zagreb": "78.2",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-16",
+   "Date": "1/16/2020",
    "Rijeka": "40.1",
    "Split": "40.2",
    "Zagreb": "77.5",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-17",
+   "Date": "1/17/2020",
    "Rijeka": "43.1",
    "Split": "40.3",
    "Zagreb": "24.4",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-18",
+   "Date": "1/18/2020",
    "Rijeka": "32.1",
    "Split": "31.8",
    "Zagreb": "18.8",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-19",
+   "Date": "1/19/2020",
    "Rijeka": "6.6",
    "Split": "12.3",
    "Zagreb": "21.2",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-20",
+   "Date": "1/20/2020",
    "Rijeka": "6.3",
    "Split": "10.5",
    "Zagreb": "30.8",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-21",
+   "Date": "1/21/2020",
    "Rijeka": "31.4",
    "Split": "38.6",
    "Zagreb": "63.8",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-22",
+   "Date": "1/22/2020",
    "Rijeka": "36.2",
    "Split": "38",
    "Zagreb": "44.3",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-23",
+   "Date": "1/23/2020",
    "Rijeka": "20.2",
    "Split": "45.1",
    "Zagreb": "46.3",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-24",
+   "Date": "1/24/2020",
    "Rijeka": "47.7",
    "Split": "33.1",
    "Zagreb": "35.4",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-25",
+   "Date": "1/25/2020",
    "Rijeka": "38.3",
    "Split": "13.7",
    "Zagreb": "39.8",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-26",
+   "Date": "1/26/2020",
    "Rijeka": "28.7",
    "Split": "23.1",
    "Zagreb": "20.6",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-27",
+   "Date": "1/27/2020",
    "Rijeka": "33.2",
    "Split": "28.4",
    "Zagreb": "28.3",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-28",
+   "Date": "1/28/2020",
    "Rijeka": "13",
    "Split": "22",
    "Zagreb": "47.6",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-29",
+   "Date": "1/29/2020",
    "Rijeka": "36.8",
    "Split": "31.5",
    "Zagreb": "52.5",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-30",
+   "Date": "1/30/2020",
    "Rijeka": "33.1",
    "Split": "37.4",
    "Zagreb": "53.4",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-01-31",
+   "Date": "1/31/2020",
    "Rijeka": "34.4",
    "Split": "35",
    "Zagreb": "28.8",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-01",
+   "Date": "2/1/2020",
    "Rijeka": "27",
    "Split": "33",
    "Zagreb": "21.2",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-02",
+   "Date": "2/2/2020",
    "Rijeka": "23.4",
    "Split": "37.2",
    "Zagreb": "19",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-03",
+   "Date": "2/3/2020",
    "Rijeka": "29.9",
    "Split": "26.8",
    "Zagreb": "43.1",
-   "Stringency": "0"
+   "Stringency": "0",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-04",
+   "Date": "2/4/2020",
    "Rijeka": "25.1",
    "Split": "9.9",
    "Zagreb": "34.5",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-05",
+   "Date": "2/5/2020",
    "Rijeka": "18.8",
    "Split": "7.9",
    "Zagreb": "28.7",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-06",
+   "Date": "2/6/2020",
    "Rijeka": "26.8",
    "Split": "23.7",
    "Zagreb": "52.8",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-07",
+   "Date": "2/7/2020",
    "Rijeka": "28.6",
    "Split": "21.5",
    "Zagreb": "54.1",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-08",
+   "Date": "2/8/2020",
    "Rijeka": "35.2",
    "Split": "31.5",
    "Zagreb": "48.5",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-09",
+   "Date": "2/9/2020",
    "Rijeka": "20.6",
    "Split": "33.4",
    "Zagreb": "40.4",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-10",
+   "Date": "2/10/2020",
    "Rijeka": "12.3",
    "Split": "13",
    "Zagreb": "25.8",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-11",
+   "Date": "2/11/2020",
    "Rijeka": "26.6",
    "Split": "34.2",
    "Zagreb": "40.9",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-12",
+   "Date": "2/12/2020",
    "Rijeka": "25.8",
    "Split": "32",
    "Zagreb": "44",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-13",
+   "Date": "2/13/2020",
    "Rijeka": "39.5",
    "Split": "28.8",
    "Zagreb": "54",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-14",
+   "Date": "2/14/2020",
    "Rijeka": "33.7",
    "Split": "15.2",
    "Zagreb": "45.6",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-15",
+   "Date": "2/15/2020",
    "Rijeka": "35.1",
    "Split": "28.1",
    "Zagreb": "42",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-16",
+   "Date": "2/16/2020",
    "Rijeka": "32.3",
    "Split": "35.4",
    "Zagreb": "49.1",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-17",
+   "Date": "2/17/2020",
    "Rijeka": "30.9",
    "Split": "39.3",
    "Zagreb": "29.7",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-18",
+   "Date": "2/18/2020",
    "Rijeka": "36.6",
    "Split": "33.5",
    "Zagreb": "45.9",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-19",
+   "Date": "2/19/2020",
    "Rijeka": "37.6",
    "Split": "20.9",
    "Zagreb": "52.4",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-20",
+   "Date": "2/20/2020",
    "Rijeka": "40.1",
    "Split": "11.5",
    "Zagreb": "43.1",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-21",
+   "Date": "2/21/2020",
    "Rijeka": "40.5",
    "Split": "30.1",
    "Zagreb": "43.6",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-22",
+   "Date": "2/22/2020",
    "Rijeka": "19.8",
    "Split": "28",
    "Zagreb": "49.4",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-23",
+   "Date": "2/23/2020",
    "Rijeka": "16.3",
    "Split": "32.3",
    "Zagreb": "35.3",
-   "Stringency": "4.76000022888184"
+   "Stringency": "4.760000229",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-24",
+   "Date": "2/24/2020",
    "Rijeka": "25.9",
    "Split": "42.5",
    "Zagreb": "47.2",
-   "Stringency": "19.0499992370605"
+   "Stringency": "19.04999924",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-25",
+   "Date": "2/25/2020",
    "Rijeka": "16.8",
    "Split": "31.4",
    "Zagreb": "52.2",
-   "Stringency": "19.0499992370605"
+   "Stringency": "19.04999924",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-26",
+   "Date": "2/26/2020",
    "Rijeka": "16.9",
    "Split": "13.1",
    "Zagreb": "33.1",
-   "Stringency": "19.0499992370605"
+   "Stringency": "19.04999924",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-27",
+   "Date": "2/27/2020",
    "Rijeka": "16.8",
    "Split": "19.8",
    "Zagreb": "41.4",
-   "Stringency": "19.0499992370605"
+   "Stringency": "19.04999924",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-28",
+   "Date": "2/28/2020",
    "Rijeka": "33.7",
    "Split": "15.8",
    "Zagreb": "42.3",
-   "Stringency": "19.0499992370605"
+   "Stringency": "19.04999924",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-02-29",
+   "Date": "2/29/2020",
    "Rijeka": "27.9",
    "Split": "9.6",
    "Zagreb": "36.3",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-01",
+   "Date": "3/1/2020",
    "Rijeka": "24.8",
    "Split": "2.2",
    "Zagreb": "37.3",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-02",
+   "Date": "3/2/2020",
    "Rijeka": "17.3",
    "Split": "9.6",
    "Zagreb": "45.2",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-03",
+   "Date": "3/3/2020",
    "Rijeka": "28.3",
    "Split": "10.5",
    "Zagreb": "36.5",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-04",
+   "Date": "3/4/2020",
    "Rijeka": "30.9",
    "Split": "18.8",
    "Zagreb": "27.3",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-05",
+   "Date": "3/5/2020",
    "Rijeka": "36",
    "Split": "28",
    "Zagreb": "50",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-06",
+   "Date": "3/6/2020",
    "Rijeka": "31.7",
    "Split": "28.4",
    "Zagreb": "35",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-07",
+   "Date": "3/7/2020",
    "Rijeka": "18.7",
    "Split": "14.7",
    "Zagreb": "43.8",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-08",
+   "Date": "3/8/2020",
    "Rijeka": "35.1",
    "Split": "5.5",
    "Zagreb": "34.8",
-   "Stringency": "28.5699996948242"
+   "Stringency": "28.56999969",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-09",
+   "Date": "3/9/2020",
    "Rijeka": "37.9",
    "Split": "26.2",
    "Zagreb": "42.9",
-   "Stringency": "33.3300018310547"
+   "Stringency": "33.33000183",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-10",
+   "Date": "3/10/2020",
    "Rijeka": "26.6",
    "Split": "24",
    "Zagreb": "39.7",
-   "Stringency": "33.3300018310547"
+   "Stringency": "33.33000183",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-11",
+   "Date": "3/11/2020",
    "Rijeka": "29.1",
    "Split": "43.5",
    "Zagreb": "60.1",
-   "Stringency": "38.0999984741211"
+   "Stringency": "38.09999847",
+   "Comment": "Premijer Andrej Plenkovi? odr�ao je izvanredni sastanak s nadle�nim ministrima te ?lanovima Sto�era civilne za�tite RH kako bi raspravili daljnje mjere i aktivnosti za suzbijanje koronavirusa u Hrvatskoj.",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-12",
+   "Date": "3/12/2020",
    "Rijeka": "28.3",
    "Split": "39",
    "Zagreb": "49.5",
-   "Stringency": "42.8600006103516"
+   "Stringency": "42.86000061",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-13",
+   "Date": "3/13/2020",
    "Rijeka": "29.1",
    "Split": "38.8",
    "Zagreb": "31.1",
-   "Stringency": "52.3800010681152"
+   "Stringency": "52.38000107",
+   "Comment": "Premijer Andrej Plenkovi? najavio je dvotjednu obustavu nastave u �kolama i fakultetima u cijeloj Hrvatskoj, po?ev�i od ponedjeljka 16. o�ujka. Ne?e raditi niti vrti?i. Roditelji koji nisu u mogu?nosti ?uvati djecu, mogu dijete dovesti u �kolu, kao i u vrti?e, gdje ?e biti zbrinuta",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-14",
+   "Date": "3/14/2020",
    "Rijeka": "3.1",
    "Split": "19.9",
    "Zagreb": "24.9",
-   "Stringency": "61.9000015258789"
+   "Stringency": "61.90000153",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-15",
+   "Date": "3/15/2020",
    "Rijeka": "9.1",
    "Split": "4.5",
    "Zagreb": "29.2",
-   "Stringency": "66.6699981689453"
+   "Stringency": "66.66999817",
+   "Comment": "Ministarstvo zdravstva donijelo je Odluku o mjerama mobilizacije i rasporeda rada i radnog vremena zdravstvenih ustanova i njihovih djelatnika.",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-16",
+   "Date": "3/16/2020",
    "Rijeka": "13.9",
    "Split": "40.4",
    "Zagreb": "48.4",
-   "Stringency": "66.6699981689453"
+   "Stringency": "66.66999817",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-17",
+   "Date": "3/17/2020",
    "Rijeka": "18.3",
    "Split": "28.9",
    "Zagreb": "53.6",
-   "Stringency": "71.4300003051758"
+   "Stringency": "71.43000031",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-18",
+   "Date": "3/18/2020",
    "Rijeka": "32",
    "Split": "40.6",
    "Zagreb": "39.5",
-   "Stringency": "80.9499969482422"
+   "Stringency": "80.94999695",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-19",
+   "Date": "3/19/2020",
    "Rijeka": "20",
    "Split": "35.9",
    "Zagreb": "48.9",
-   "Stringency": "85.7099990844727"
+   "Stringency": "85.70999908",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-20",
+   "Date": "3/20/2020",
    "Rijeka": "16.5",
    "Split": "35",
    "Zagreb": "46",
-   "Stringency": "85.7099990844727"
+   "Stringency": "85.70999908",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-21",
+   "Date": "3/21/2020",
    "Rijeka": "6.7",
    "Split": "28.5",
    "Zagreb": "15.3",
-   "Stringency": "95.2399978637695"
+   "Stringency": "95.23999786",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-22",
+   "Date": "3/22/2020",
    "Rijeka": "2.5",
    "Split": "11.7",
    "Zagreb": "9.2",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-23",
+   "Date": "3/23/2020",
    "Rijeka": "2.5",
    "Split": "2.6",
    "Zagreb": "7.6",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-24",
+   "Date": "3/24/2020",
    "Rijeka": "2.5",
    "Split": "4.3",
    "Zagreb": "8.4",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-25",
+   "Date": "3/25/2020",
    "Rijeka": "2.5",
    "Split": "7.4",
    "Zagreb": "11.7",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-26",
+   "Date": "3/26/2020",
    "Rijeka": "5",
    "Split": "8",
    "Zagreb": "12.5",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-27",
+   "Date": "3/27/2020",
    "Rijeka": "2",
    "Split": "12",
    "Zagreb": "28",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-28",
+   "Date": "3/28/2020",
    "Rijeka": "5.3",
    "Split": "15.2",
    "Zagreb": "37.3",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-29",
+   "Date": "3/29/2020",
    "Rijeka": "26.7",
    "Split": "12",
    "Zagreb": "29.1",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-30",
+   "Date": "3/30/2020",
    "Rijeka": "5.2",
    "Split": "23.1",
    "Zagreb": "13.2",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-03-31",
+   "Date": "3/31/2020",
    "Rijeka": "5.3",
    "Split": "3.8",
    "Zagreb": "13.9",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-01",
+   "Date": "4/1/2020",
    "Rijeka": "6.1",
    "Split": "3.7",
    "Zagreb": "18",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-02",
+   "Date": "4/2/2020",
    "Rijeka": "16.5",
    "Split": "18.3",
    "Zagreb": "33.9",
-   "Stringency": "100"
+   "Stringency": "100",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-03",
+   "Date": "4/3/2020",
    "Rijeka": "15.4",
    "Split": "13.1",
    "Zagreb": "28.4",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-04",
+   "Date": "4/4/2020",
    "Rijeka": "18.3",
    "Split": "2.7",
    "Zagreb": "14.6",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "Ministarstvo pravosu?a: Nema ovrha dok traje kriza.",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-05",
+   "Date": "4/5/2020",
    "Rijeka": "0.7",
    "Split": "3.4",
    "Zagreb": "28.7",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-06",
+   "Date": "4/6/2020",
    "Rijeka": "1.6",
    "Split": "9.1",
    "Zagreb": "28.7",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-07",
+   "Date": "4/7/2020",
    "Rijeka": "14.9",
    "Split": "34.4",
    "Zagreb": "37.3",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-08",
+   "Date": "4/8/2020",
    "Rijeka": "4.3",
    "Split": "15.4",
    "Zagreb": "34.5",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-09",
+   "Date": "4/9/2020",
    "Rijeka": "18.4",
    "Split": "29.6",
    "Zagreb": "36.4",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-10",
+   "Date": "4/10/2020",
    "Rijeka": "16.2",
    "Split": "39.9",
    "Zagreb": "32.2",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-11",
+   "Date": "4/11/2020",
    "Rijeka": "15.3",
    "Split": "18.7",
    "Zagreb": "19.8",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-12",
+   "Date": "4/12/2020",
    "Rijeka": "11.3",
    "Split": "21.8",
    "Zagreb": "13.3",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-13",
+   "Date": "4/13/2020",
    "Rijeka": "3",
    "Split": "12.3",
    "Zagreb": "25.3",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-14",
+   "Date": "4/14/2020",
    "Rijeka": "3.8",
    "Split": "9.7",
    "Zagreb": "13.6",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-15",
+   "Date": "4/15/2020",
    "Rijeka": "9",
    "Split": "19.2",
    "Zagreb": "19.9",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-16",
+   "Date": "4/16/2020",
    "Rijeka": "16",
    "Split": "22.5",
    "Zagreb": "26.5",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-17",
+   "Date": "4/17/2020",
    "Rijeka": "17.9",
    "Split": "24.7",
    "Zagreb": "38.2",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-18",
+   "Date": "4/18/2020",
    "Rijeka": "9.5",
    "Split": "14.8",
    "Zagreb": "25",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-19",
+   "Date": "4/19/2020",
    "Rijeka": "13.4",
    "Split": "12.4",
    "Zagreb": "18.2",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-20",
+   "Date": "4/20/2020",
    "Rijeka": "8.9",
    "Split": "21.7",
    "Zagreb": "14.5",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-21",
+   "Date": "4/21/2020",
    "Rijeka": "2.1",
    "Split": "16.6",
    "Zagreb": "16.8",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-22",
+   "Date": "4/22/2020",
    "Rijeka": "5.3",
    "Split": "5.1",
    "Zagreb": "20.4",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-23",
+   "Date": "4/23/2020",
    "Rijeka": "3.6",
    "Split": "NA",
    "Zagreb": "30.7",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-24",
+   "Date": "4/24/2020",
    "Rijeka": "21.7",
    "Split": "12",
    "Zagreb": "35.6",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-25",
+   "Date": "4/25/2020",
    "Rijeka": "12.8",
    "Split": "22.6",
    "Zagreb": "14.4",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-26",
+   "Date": "4/26/2020",
    "Rijeka": "9.5",
    "Split": "19.1",
    "Zagreb": "16.4",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-27",
+   "Date": "4/27/2020",
    "Rijeka": "21.5",
    "Split": "20",
    "Zagreb": "24.3",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-28",
+   "Date": "4/28/2020",
    "Rijeka": "26.3",
    "Split": "21.6",
    "Zagreb": "24.2",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-29",
+   "Date": "4/29/2020",
    "Rijeka": "17.6",
    "Split": "13.6",
    "Zagreb": "17.6",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-04-30",
+   "Date": "4/30/2020",
    "Rijeka": "11.7",
    "Split": "13.5",
    "Zagreb": "21.7",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-05-01",
+   "Date": "5/1/2020",
    "Rijeka": "16.3",
    "Split": "13",
    "Zagreb": "18.8",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-05-02",
+   "Date": "5/2/2020",
    "Rijeka": "13.9",
    "Split": "23.1",
    "Zagreb": "16.9",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-05-03",
+   "Date": "5/3/2020",
    "Rijeka": "2.8",
    "Split": "10.2",
    "Zagreb": "20.2",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
  },
  {
-   "Date": "2020-05-04",
+   "Date": "5/4/2020",
    "Rijeka": "5.7",
    "Split": "3.3",
    "Zagreb": "21.4",
-   "Stringency": "NA"
+   "Stringency": "NA",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Rijeka": "",
+   "Split": "",
+   "Zagreb": "",
+   "Stringency": "",
+   "Comment": "",
+   "FIELD7": ""
  }
 ]
