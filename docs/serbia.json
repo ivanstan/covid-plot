@@ -1,0 +1,1532 @@
+[
+ {
+   "Date": "12/30/2019",
+   "Belgrade": 24.9,
+   "Niš": 11.4,
+   "Novi Sad": 28,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "12/31/2019",
+   "Belgrade": 31.9,
+   "Niš": 23.2,
+   "Novi Sad": 35.1,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/1/2020",
+   "Belgrade": 37.9,
+   "Niš": 15.8,
+   "Novi Sad": 24.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/2/2020",
+   "Belgrade": 40.5,
+   "Niš": 24.6,
+   "Novi Sad": 40.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/3/2020",
+   "Belgrade": 24.9,
+   "Niš": 38.6,
+   "Novi Sad": 16.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/4/2020",
+   "Belgrade": 27.3,
+   "Niš": 37.4,
+   "Novi Sad": 21.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/5/2020",
+   "Belgrade": 27,
+   "Niš": 20.1,
+   "Novi Sad": 16.9,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/6/2020",
+   "Belgrade": 29,
+   "Niš": 12.5,
+   "Novi Sad": 31.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/7/2020",
+   "Belgrade": 44.8,
+   "Niš": 23.4,
+   "Novi Sad": 35.9,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/8/2020",
+   "Belgrade": 33.9,
+   "Niš": 36.6,
+   "Novi Sad": 27,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/9/2020",
+   "Belgrade": 31.5,
+   "Niš": 45.4,
+   "Novi Sad": 27.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/10/2020",
+   "Belgrade": 82.7,
+   "Niš": 53.4,
+   "Novi Sad": 77.5,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/11/2020",
+   "Belgrade": 35.7,
+   "Niš": 50.2,
+   "Novi Sad": 25.5,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/12/2020",
+   "Belgrade": 21.5,
+   "Niš": 19.8,
+   "Novi Sad": 14.2,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/13/2020",
+   "Belgrade": 29.5,
+   "Niš": 26.8,
+   "Novi Sad": 20.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/14/2020",
+   "Belgrade": 32.8,
+   "Niš": 26,
+   "Novi Sad": 26,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/15/2020",
+   "Belgrade": 43.7,
+   "Niš": 29.7,
+   "Novi Sad": 21.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/16/2020",
+   "Belgrade": 37.1,
+   "Niš": 33.7,
+   "Novi Sad": 18.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/17/2020",
+   "Belgrade": 29.1,
+   "Niš": 26,
+   "Novi Sad": 12.7,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/18/2020",
+   "Belgrade": 27.8,
+   "Niš": 19,
+   "Novi Sad": 21.7,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/19/2020",
+   "Belgrade": 15.2,
+   "Niš": 15.6,
+   "Novi Sad": 14.2,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/20/2020",
+   "Belgrade": 24.2,
+   "Niš": 17.3,
+   "Novi Sad": 16.3,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/21/2020",
+   "Belgrade": 29.9,
+   "Niš": 19.6,
+   "Novi Sad": 23.8,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/22/2020",
+   "Belgrade": 38.1,
+   "Niš": 43,
+   "Novi Sad": 37.1,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/23/2020",
+   "Belgrade": 35.9,
+   "Niš": 24.2,
+   "Novi Sad": 37.4,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/24/2020",
+   "Belgrade": 45.5,
+   "Niš": 45.9,
+   "Novi Sad": 49.9,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/25/2020",
+   "Belgrade": 84,
+   "Niš": 52.6,
+   "Novi Sad": 42.1,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/26/2020",
+   "Belgrade": 43.1,
+   "Niš": 32.8,
+   "Novi Sad": 29.1,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/27/2020",
+   "Belgrade": 20.4,
+   "Niš": 16.5,
+   "Novi Sad": 15.2,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/28/2020",
+   "Belgrade": 33,
+   "Niš": 35,
+   "Novi Sad": 28.7,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/29/2020",
+   "Belgrade": 28.1,
+   "Niš": 17.4,
+   "Novi Sad": 29.2,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/30/2020",
+   "Belgrade": 38.8,
+   "Niš": 29.8,
+   "Novi Sad": 32.5,
+   "Stringency": "0",
+   "serbia_comment": "The World Health Organization declared the outbreak",
+   "FIELD7": ""
+ },
+ {
+   "Date": "1/31/2020",
+   "Belgrade": 52.7,
+   "Niš": 43.5,
+   "Novi Sad": 41.9,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/1/2020",
+   "Belgrade": 46,
+   "Niš": 40.8,
+   "Novi Sad": 30,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/2/2020",
+   "Belgrade": 27.6,
+   "Niš": 32.8,
+   "Novi Sad": 17.4,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/3/2020",
+   "Belgrade": 38.8,
+   "Niš": 27.7,
+   "Novi Sad": 29.5,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/4/2020",
+   "Belgrade": 26,
+   "Niš": 25,
+   "Novi Sad": 22.9,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/5/2020",
+   "Belgrade": 21.6,
+   "Niš": 7,
+   "Novi Sad": 15.4,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/6/2020",
+   "Belgrade": 29.3,
+   "Niš": 32,
+   "Novi Sad": 25.2,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/7/2020",
+   "Belgrade": 22.5,
+   "Niš": 17.8,
+   "Novi Sad": 22.3,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/8/2020",
+   "Belgrade": 46.2,
+   "Niš": 27.5,
+   "Novi Sad": 21.1,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/9/2020",
+   "Belgrade": 68.5,
+   "Niš": 37.9,
+   "Novi Sad": 43.7,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/10/2020",
+   "Belgrade": 40.6,
+   "Niš": 32,
+   "Novi Sad": 28.8,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/11/2020",
+   "Belgrade": 28,
+   "Niš": 30.2,
+   "Novi Sad": 21.6,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/12/2020",
+   "Belgrade": 49.3,
+   "Niš": 31.8,
+   "Novi Sad": 31.4,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/13/2020",
+   "Belgrade": 52.2,
+   "Niš": 30.5,
+   "Novi Sad": 34,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/14/2020",
+   "Belgrade": 35.8,
+   "Niš": 22.8,
+   "Novi Sad": 27.3,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/15/2020",
+   "Belgrade": 45.1,
+   "Niš": 19.4,
+   "Novi Sad": 31.9,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/16/2020",
+   "Belgrade": 36.6,
+   "Niš": 35.7,
+   "Novi Sad": 39.8,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/17/2020",
+   "Belgrade": 68.2,
+   "Niš": 44.9,
+   "Novi Sad": 49,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/18/2020",
+   "Belgrade": 36.3,
+   "Niš": 28.8,
+   "Novi Sad": 23.5,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/19/2020",
+   "Belgrade": 27.2,
+   "Niš": 26.6,
+   "Novi Sad": 34,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/20/2020",
+   "Belgrade": 44.3,
+   "Niš": 13.1,
+   "Novi Sad": 29.1,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/21/2020",
+   "Belgrade": 29.4,
+   "Niš": 19.8,
+   "Novi Sad": 49.3,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/22/2020",
+   "Belgrade": 45.7,
+   "Niš": 27.8,
+   "Novi Sad": 23.5,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/23/2020",
+   "Belgrade": 44.6,
+   "Niš": 45.2,
+   "Novi Sad": 25.8,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/24/2020",
+   "Belgrade": 42.1,
+   "Niš": 29.1,
+   "Novi Sad": 31.2,
+   "Stringency": "0",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/25/2020",
+   "Belgrade": 49.5,
+   "Niš": 28.4,
+   "Novi Sad": 35,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/26/2020",
+   "Belgrade": 50.6,
+   "Niš": 22.2,
+   "Novi Sad": 31.7,
+   "Stringency": "14.28999996",
+   "serbia_comment": "Famozna izjava dr. Nestorovica",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/27/2020",
+   "Belgrade": 30.6,
+   "Niš": 22.5,
+   "Novi Sad": 23.8,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/28/2020",
+   "Belgrade": 33.4,
+   "Niš": 19.9,
+   "Novi Sad": 17.6,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "2/29/2020",
+   "Belgrade": 29,
+   "Niš": 19.3,
+   "Novi Sad": 23.7,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/1/2020",
+   "Belgrade": 39.4,
+   "Niš": 29.5,
+   "Novi Sad": 28.1,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/2/2020",
+   "Belgrade": 46.5,
+   "Niš": 29.1,
+   "Novi Sad": 32,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/3/2020",
+   "Belgrade": 45.5,
+   "Niš": 31.8,
+   "Novi Sad": 24.8,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/4/2020",
+   "Belgrade": 26.8,
+   "Niš": 9.9,
+   "Novi Sad": 23.6,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/5/2020",
+   "Belgrade": 48.4,
+   "Niš": 31.1,
+   "Novi Sad": 25.5,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/6/2020",
+   "Belgrade": 24.3,
+   "Niš": 31.3,
+   "Novi Sad": 30.6,
+   "Stringency": "14.28999996",
+   "serbia_comment": "Pojavio se prvi slu?aj koronavirusa u Srbiji",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/7/2020",
+   "Belgrade": 35,
+   "Niš": 18.5,
+   "Novi Sad": 18.5,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/8/2020",
+   "Belgrade": 14.8,
+   "Niš": 12.5,
+   "Novi Sad": 19.4,
+   "Stringency": "14.28999996",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/9/2020",
+   "Belgrade": 36.7,
+   "Niš": 15.7,
+   "Novi Sad": 24.6,
+   "Stringency": "14.28999996",
+   "serbia_comment": "Vu?i?: Zabrani?emo privremeno ulazak u Srbiju ljudima iz pojedinih zemalja",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/10/2020",
+   "Belgrade": 33,
+   "Niš": 16.8,
+   "Novi Sad": 30.3,
+   "Stringency": "14.28999996",
+   "serbia_comment": "Preduzimaju se neophodne mere zbog koronavirusa\n\nObjavljene zvani?ne preporuke �kolama zbog koronavirusa\n\nHitne mere Vlade Srbije zbog koronavirusa",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/11/2020",
+   "Belgrade": 42.4,
+   "Niš": 32.9,
+   "Novi Sad": 41.9,
+   "Stringency": "42.86000061",
+   "serbia_comment": "The World Health Organization recognized pandemic\n\nNema zatvaranja �kola, zabranjeni veliki skupovi \n\nSportska de�avanja u Srbiji u zatvorenom bez navija?a",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/12/2020",
+   "Belgrade": 44.5,
+   "Niš": 28,
+   "Novi Sad": 54.7,
+   "Stringency": "42.86000061",
+   "serbia_comment": "Zatvaraju se grani?ni prelazi",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/13/2020",
+   "Belgrade": 27.2,
+   "Niš": 15.6,
+   "Novi Sad": 31.6,
+   "Stringency": "42.86000061",
+   "serbia_comment": "�kole se ne zatvaraju",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/14/2020",
+   "Belgrade": 26.8,
+   "Niš": 14.5,
+   "Novi Sad": 25.2,
+   "Stringency": "42.86000061",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/15/2020",
+   "Belgrade": 12.8,
+   "Niš": 9.7,
+   "Novi Sad": 10.6,
+   "Stringency": "42.86000061",
+   "serbia_comment": "Privremena zabrana ulaska u Srbiju za dr�avljane nekoliko zemalja\n\nSmanjen broj ljudi na javnim okupljanjima\n\nPredsednik Vu?i? proglasio vanredno stanje",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/16/2020",
+   "Belgrade": 16.8,
+   "Niš": 15.6,
+   "Novi Sad": 9.5,
+   "Stringency": "66.66999817",
+   "serbia_comment": "Apel za rad od kuce\n\nVlada Srbije: Mere tokom vanrednog stanja\n\nEr Srbija danas otkazala 16 letova\n\nKoristiti e-bankarstvo, u ekspoziture samo ako je neophodno\n\nApelacioni sud u Beogradu odla�e su?enja\n\nPoo�trene mere Vlade VIDEO\n\nVlada Srbije donela Uredbu: Odstupa se od Ustavom zajam?enih prava",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/17/2020",
+   "Belgrade": 32.7,
+   "Niš": 30.3,
+   "Novi Sad": 36.5,
+   "Stringency": "66.66999817",
+   "serbia_comment": "Nove mere Vlade Srbije: Razmak izme?u ljudi dva metra\n\nZabranjen izlazak starijima od 65 godina, niko ne sme na ulicu od 20 do 5h\n\nStudenti hitno iseljeni",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/18/2020",
+   "Belgrade": 55.9,
+   "Niš": 20.2,
+   "Novi Sad": 46.9,
+   "Stringency": "66.66999817",
+   "serbia_comment": "Policijski ?as\n\nCeo Beograd bi?e dezinfikovan",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/19/2020",
+   "Belgrade": 65.9,
+   "Niš": 20.4,
+   "Novi Sad": 42.9,
+   "Stringency": "66.66999817",
+   "serbia_comment": "Hiljade potencijalno zara�enih dolazi u Srbiju\n\nEr Srbija obustavlja prevoz putnika\n\n\"Zatvaraju se granice, obustavlja se me?ugradski saobra?aj\"",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/20/2020",
+   "Belgrade": 67.2,
+   "Niš": 36.8,
+   "Novi Sad": 49,
+   "Stringency": "66.66999817",
+   "serbia_comment": "Ukida se prevoz u Beogradu od 20 do 5h\n\nSrbija zatvorila svoje granice, u podne se obustavlja me?ugradski saobra?aj\n\nProgla�ena epidemija u Srbiji\n\nVlada usvojila nove mere, jo� stro�e\n\nPrvi smrtni slu?aj od koronavirusa u Srbiji VIDEO",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/21/2020",
+   "Belgrade": 27.9,
+   "Niš": 18.9,
+   "Novi Sad": 26.5,
+   "Stringency": "100",
+   "serbia_comment": "Nove mere Vlade - zabrana rada se odnosi i na igraonice, kladionice, autoperionice\n\nNove odluke Vlade Srbije: Mere i zabrane stupaju na snagu ve? ve?eras",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/22/2020",
+   "Belgrade": 9.4,
+   "Niš": 4.8,
+   "Novi Sad": 7.4,
+   "Stringency": "100",
+   "serbia_comment": "Vu?i?: Narode, stro�e mere VIDEO\n\nOd danas policijski ?as u Srbiji od 17 do 5h",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/23/2020",
+   "Belgrade": 13,
+   "Niš": 11.1,
+   "Novi Sad": 13.1,
+   "Stringency": "100",
+   "serbia_comment": "Zatvoreni parkovi u Beogradu: \"To je nu�na mera\" VIDEO",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/24/2020",
+   "Belgrade": 12.1,
+   "Niš": 8.2,
+   "Novi Sad": 7.9,
+   "Stringency": "100",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/25/2020",
+   "Belgrade": 8.2,
+   "Niš": 9.9,
+   "Novi Sad": 5.8,
+   "Stringency": "100",
+   "serbia_comment": "Brnabi?eva o novim merama",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/26/2020",
+   "Belgrade": 7.2,
+   "Niš": 7.9,
+   "Novi Sad": 5.8,
+   "Stringency": "100",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/27/2020",
+   "Belgrade": 28.7,
+   "Niš": 9,
+   "Novi Sad": 19.2,
+   "Stringency": "100",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/28/2020",
+   "Belgrade": 27.5,
+   "Niš": 13.4,
+   "Novi Sad": 25.7,
+   "Stringency": "100",
+   "serbia_comment": "Po?inje prijem pacijenata na Sajmu FOTO",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/29/2020",
+   "Belgrade": 18.6,
+   "Niš": 9.7,
+   "Novi Sad": 20.5,
+   "Stringency": "100",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/30/2020",
+   "Belgrade": 15.2,
+   "Niš": 12.6,
+   "Novi Sad": 17.7,
+   "Stringency": "100",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "3/31/2020",
+   "Belgrade": 15.2,
+   "Niš": 8.5,
+   "Novi Sad": 14.8,
+   "Stringency": "100",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/1/2020",
+   "Belgrade": 10.8,
+   "Niš": 8.1,
+   "Novi Sad": 16.5,
+   "Stringency": "100",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/2/2020",
+   "Belgrade": 18,
+   "Niš": 8.6,
+   "Novi Sad": 26.9,
+   "Stringency": "100",
+   "serbia_comment": "Government to consider introduction of new measures",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/3/2020",
+   "Belgrade": 24.4,
+   "Niš": 15.3,
+   "Novi Sad": 23.4,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/4/2020",
+   "Belgrade": 17.8,
+   "Niš": 13.3,
+   "Novi Sad": 19.6,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/5/2020",
+   "Belgrade": 11.4,
+   "Niš": 10,
+   "Novi Sad": 12.9,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/6/2020",
+   "Belgrade": 21.4,
+   "Niš": 24.6,
+   "Novi Sad": 8.1,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/7/2020",
+   "Belgrade": 17.6,
+   "Niš": 11.5,
+   "Novi Sad": 17.5,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/8/2020",
+   "Belgrade": 30.8,
+   "Niš": 14.5,
+   "Novi Sad": 25,
+   "Stringency": "NA",
+   "serbia_comment": "Ban on movement from Friday at 17.00 to Monday at 05.00",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/9/2020",
+   "Belgrade": 26.7,
+   "Niš": 14.4,
+   "Novi Sad": 34.3,
+   "Stringency": "NA",
+   "serbia_comment": "Government extends duration of curfew over the weekend",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/10/2020",
+   "Belgrade": 28.5,
+   "Niš": 14.9,
+   "Novi Sad": 21.8,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/11/2020",
+   "Belgrade": 13.5,
+   "Niš": 6.8,
+   "Novi Sad": 12.1,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/12/2020",
+   "Belgrade": 20,
+   "Niš": 5.4,
+   "Novi Sad": 12.9,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/13/2020",
+   "Belgrade": 42.7,
+   "Niš": 12.2,
+   "Novi Sad": 34.5,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/14/2020",
+   "Belgrade": 23.4,
+   "Niš": 20,
+   "Novi Sad": 17.4,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/15/2020",
+   "Belgrade": 24.4,
+   "Niš": 8.5,
+   "Novi Sad": 12.5,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/16/2020",
+   "Belgrade": 25.1,
+   "Niš": 13.1,
+   "Novi Sad": 32.7,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/17/2020",
+   "Belgrade": 20.8,
+   "Niš": 11.4,
+   "Novi Sad": 21.2,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/18/2020",
+   "Belgrade": 21.3,
+   "Niš": 8,
+   "Novi Sad": 20.6,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/19/2020",
+   "Belgrade": 15.2,
+   "Niš": 5.5,
+   "Novi Sad": 17.3,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/20/2020",
+   "Belgrade": 11.4,
+   "Niš": 5.5,
+   "Novi Sad": 7.4,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/21/2020",
+   "Belgrade": 11.6,
+   "Niš": 9.3,
+   "Novi Sad": 11.5,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/22/2020",
+   "Belgrade": 19.2,
+   "Niš": 10.1,
+   "Novi Sad": 25,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/23/2020",
+   "Belgrade": 22.5,
+   "Niš": 3.2,
+   "Novi Sad": 20.2,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/24/2020",
+   "Belgrade": 25.8,
+   "Niš": 14,
+   "Novi Sad": 19.7,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/25/2020",
+   "Belgrade": 23.4,
+   "Niš": 4.7,
+   "Novi Sad": 18.8,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/26/2020",
+   "Belgrade": 10.7,
+   "Niš": 4.4,
+   "Novi Sad": 10.8,
+   "Stringency": "NA",
+   "serbia_comment": "Decision on declaring state of emergency sent to parliament for confirmation",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/27/2020",
+   "Belgrade": 19.7,
+   "Niš": 9.7,
+   "Novi Sad": 14.6,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/28/2020",
+   "Belgrade": 28.5,
+   "Niš": 12.7,
+   "Novi Sad": 26.6,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/29/2020",
+   "Belgrade": 25.5,
+   "Niš": 24.8,
+   "Novi Sad": 24.1,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "4/30/2020",
+   "Belgrade": 15.5,
+   "Niš": 8.1,
+   "Novi Sad": 17.3,
+   "Stringency": "NA",
+   "serbia_comment": "Zabrana kretanja od ?etvrtka u 18 do ponedeljka u 5 ?asova",
+   "FIELD7": ""
+ },
+ {
+   "Date": "5/1/2020",
+   "Belgrade": 11.4,
+   "Niš": 2.7,
+   "Novi Sad": 8,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "5/2/2020",
+   "Belgrade": 13.3,
+   "Niš": 5.1,
+   "Novi Sad": 8.7,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "5/3/2020",
+   "Belgrade": 8.9,
+   "Niš": 2.6,
+   "Novi Sad": 8.2,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "5/4/2020",
+   "Belgrade": 11.9,
+   "Niš": 5.2,
+   "Novi Sad": 14.7,
+   "Stringency": "NA",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ },
+ {
+   "Date": "",
+   "Belgrade": null,
+   "Niš": null,
+   "Novi Sad": null,
+   "Stringency": "",
+   "serbia_comment": "",
+   "FIELD7": ""
+ }
+]
