@@ -1,0 +1,1145 @@
+[
+ {
+   "Date": "12/30/2019",
+   "Göteborg": 12.8,
+   "Malmö": "16.6",
+   "Stockholm": 21.4,
+   "Uppsala": 23.3,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "12/31/2019",
+   "Göteborg": 40,
+   "Malmö": "9.2",
+   "Stockholm": 16.8,
+   "Uppsala": 25.8,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "1/1/2020",
+   "Göteborg": 24.8,
+   "Malmö": "10.4",
+   "Stockholm": 26.2,
+   "Uppsala": 19.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/2/2020",
+   "Göteborg": 11,
+   "Malmö": "12.5",
+   "Stockholm": 16.4,
+   "Uppsala": 25.1,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/3/2020",
+   "Göteborg": 14.2,
+   "Malmö": "17.1",
+   "Stockholm": 21,
+   "Uppsala": 28.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/4/2020",
+   "Göteborg": 34.3,
+   "Malmö": "6",
+   "Stockholm": 14.9,
+   "Uppsala": 18.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/5/2020",
+   "Göteborg": 30,
+   "Malmö": "18.4",
+   "Stockholm": 26.1,
+   "Uppsala": 24.3,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/6/2020",
+   "Göteborg": 17.8,
+   "Malmö": "10.2",
+   "Stockholm": 26.6,
+   "Uppsala": 23.1,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/7/2020",
+   "Göteborg": 19.2,
+   "Malmö": "12.2",
+   "Stockholm": 23.3,
+   "Uppsala": 31.6,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/8/2020",
+   "Göteborg": 18.9,
+   "Malmö": "NA",
+   "Stockholm": 24.9,
+   "Uppsala": 34.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/9/2020",
+   "Göteborg": 36.3,
+   "Malmö": "28.4",
+   "Stockholm": 45.6,
+   "Uppsala": 48.1,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/10/2020",
+   "Göteborg": 24.3,
+   "Malmö": "27.7",
+   "Stockholm": 37.4,
+   "Uppsala": 34.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/11/2020",
+   "Göteborg": 18.7,
+   "Malmö": "10",
+   "Stockholm": 26.8,
+   "Uppsala": 26.3,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/12/2020",
+   "Göteborg": 23.5,
+   "Malmö": "10.3",
+   "Stockholm": 16.4,
+   "Uppsala": 22.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/13/2020",
+   "Göteborg": 22.5,
+   "Malmö": "18.7",
+   "Stockholm": 41.5,
+   "Uppsala": 42.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/14/2020",
+   "Göteborg": 15.9,
+   "Malmö": "15.7",
+   "Stockholm": 19.7,
+   "Uppsala": 23.5,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/15/2020",
+   "Göteborg": 18.4,
+   "Malmö": "14.1",
+   "Stockholm": 24.9,
+   "Uppsala": 37.5,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/16/2020",
+   "Göteborg": 15.8,
+   "Malmö": "14.3",
+   "Stockholm": 25.1,
+   "Uppsala": 32.2,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/17/2020",
+   "Göteborg": 30,
+   "Malmö": "15.4",
+   "Stockholm": 26.9,
+   "Uppsala": 26.4,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/18/2020",
+   "Göteborg": 22.5,
+   "Malmö": "10",
+   "Stockholm": 19,
+   "Uppsala": 15.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/19/2020",
+   "Göteborg": 47.4,
+   "Malmö": "21.4",
+   "Stockholm": 29.4,
+   "Uppsala": 29.5,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/20/2020",
+   "Göteborg": 31.2,
+   "Malmö": "17.8",
+   "Stockholm": 40.6,
+   "Uppsala": 31,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/21/2020",
+   "Göteborg": 19.6,
+   "Malmö": "9.3",
+   "Stockholm": 34.2,
+   "Uppsala": 36.6,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/22/2020",
+   "Göteborg": 42.1,
+   "Malmö": "17.3",
+   "Stockholm": 31.7,
+   "Uppsala": 40.5,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/23/2020",
+   "Göteborg": 40.7,
+   "Malmö": "12.2",
+   "Stockholm": 44.5,
+   "Uppsala": 39.9,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/24/2020",
+   "Göteborg": 16.6,
+   "Malmö": "12.7",
+   "Stockholm": 44.8,
+   "Uppsala": 45.4,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/25/2020",
+   "Göteborg": 16,
+   "Malmö": "13.4",
+   "Stockholm": 32.6,
+   "Uppsala": 29.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/26/2020",
+   "Göteborg": 13.7,
+   "Malmö": "14.5",
+   "Stockholm": 24.4,
+   "Uppsala": 22.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/27/2020",
+   "Göteborg": 22.9,
+   "Malmö": "12.5",
+   "Stockholm": 32.7,
+   "Uppsala": 30.3,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/28/2020",
+   "Göteborg": 20.5,
+   "Malmö": "17.2",
+   "Stockholm": 27.8,
+   "Uppsala": 21,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/29/2020",
+   "Göteborg": 29.6,
+   "Malmö": "11.3",
+   "Stockholm": 25.7,
+   "Uppsala": 26.4,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "1/30/2020",
+   "Göteborg": 39.9,
+   "Malmö": "13.8",
+   "Stockholm": 45.4,
+   "Uppsala": 33.3,
+   "Stringency": "0",
+   "Comment": "The World Health Organization declared the outbreak"
+ },
+ {
+   "Date": "1/31/2020",
+   "Göteborg": 33.2,
+   "Malmö": "14.6",
+   "Stockholm": 29.4,
+   "Uppsala": 30.2,
+   "Stringency": "0",
+   "Comment": "On 31 January, the first Swedish case was confirmed in a woman in J�nk�ping who had travelled to Sweden from Wuhan on 24 January directly from Wuhan. The case was fully isolated and there are no reports of further spread"
+ },
+ {
+   "Date": "2/1/2020",
+   "Göteborg": 15.3,
+   "Malmö": "11.3",
+   "Stockholm": 25.2,
+   "Uppsala": 17,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/2/2020",
+   "Göteborg": 20.7,
+   "Malmö": "7.3",
+   "Stockholm": 20.8,
+   "Uppsala": 19.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/3/2020",
+   "Göteborg": 57.1,
+   "Malmö": "19.5",
+   "Stockholm": 43.2,
+   "Uppsala": 40.2,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/4/2020",
+   "Göteborg": 24.2,
+   "Malmö": "11.3",
+   "Stockholm": 42,
+   "Uppsala": 34.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/5/2020",
+   "Göteborg": 65.8,
+   "Malmö": "23.6",
+   "Stockholm": 30.9,
+   "Uppsala": 36,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/6/2020",
+   "Göteborg": 41.7,
+   "Malmö": "13.1",
+   "Stockholm": 46.7,
+   "Uppsala": 35.3,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/7/2020",
+   "Göteborg": 38.9,
+   "Malmö": "16.3",
+   "Stockholm": 39.8,
+   "Uppsala": 31.3,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/8/2020",
+   "Göteborg": 17.1,
+   "Malmö": "13.1",
+   "Stockholm": 17.8,
+   "Uppsala": 17,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/9/2020",
+   "Göteborg": 13.3,
+   "Malmö": "10.5",
+   "Stockholm": 13.6,
+   "Uppsala": 11.9,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/10/2020",
+   "Göteborg": 11.1,
+   "Malmö": "7.9",
+   "Stockholm": 16.9,
+   "Uppsala": 25.4,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/11/2020",
+   "Göteborg": 14.7,
+   "Malmö": "10",
+   "Stockholm": 28.3,
+   "Uppsala": 33,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/12/2020",
+   "Göteborg": 12.8,
+   "Malmö": "8.7",
+   "Stockholm": 25.2,
+   "Uppsala": 38.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/13/2020",
+   "Göteborg": 35.3,
+   "Malmö": "18.8",
+   "Stockholm": 34.9,
+   "Uppsala": 34.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/14/2020",
+   "Göteborg": 37.3,
+   "Malmö": "25.3",
+   "Stockholm": 53.1,
+   "Uppsala": 45.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/15/2020",
+   "Göteborg": 15.9,
+   "Malmö": "11.5",
+   "Stockholm": 20.4,
+   "Uppsala": 19.6,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/16/2020",
+   "Göteborg": 7.8,
+   "Malmö": "6.5",
+   "Stockholm": 17.5,
+   "Uppsala": 10.3,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/17/2020",
+   "Göteborg": 9.5,
+   "Malmö": "9.1",
+   "Stockholm": 22,
+   "Uppsala": 26.8,
+   "Stringency": "0",
+   "Comment": "Beginning on 17 February, the Swedish Ministry of Foreign Affairs advised against all trips to Hubei Province, China, as well as non-essential travel to the rest of China apart from Hong Kong and Macao"
+ },
+ {
+   "Date": "2/18/2020",
+   "Göteborg": 11.1,
+   "Malmö": "8.9",
+   "Stockholm": 30.8,
+   "Uppsala": 27.9,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/19/2020",
+   "Göteborg": 29.6,
+   "Malmö": "12.7",
+   "Stockholm": 35.8,
+   "Uppsala": 36.2,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/20/2020",
+   "Göteborg": 31.7,
+   "Malmö": "13.1",
+   "Stockholm": 43,
+   "Uppsala": 30.6,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/21/2020",
+   "Göteborg": 13.8,
+   "Malmö": "8.9",
+   "Stockholm": 28.2,
+   "Uppsala": 26.3,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/22/2020",
+   "Göteborg": 9.4,
+   "Malmö": "4.6",
+   "Stockholm": 10.7,
+   "Uppsala": 9.8,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/23/2020",
+   "Göteborg": 10.9,
+   "Malmö": "7.7",
+   "Stockholm": 13.6,
+   "Uppsala": 23.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/24/2020",
+   "Göteborg": 40.2,
+   "Malmö": "15.3",
+   "Stockholm": 38.5,
+   "Uppsala": 43.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/25/2020",
+   "Göteborg": 18.6,
+   "Malmö": "8.4",
+   "Stockholm": 30.4,
+   "Uppsala": 27.9,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/26/2020",
+   "Göteborg": 34.5,
+   "Malmö": "13.5",
+   "Stockholm": 23.2,
+   "Uppsala": 7,
+   "Stringency": "0",
+   "Comment": " The second case was diagnosed at Sahlgrenska University Hospital, Gothenburg on 26 February, after a man who had recently returned from northern Italy following the COVID-19 outbreak in Italy had developed symptoms."
+ },
+ {
+   "Date": "2/27/2020",
+   "Göteborg": 39.3,
+   "Malmö": "19.8",
+   "Stockholm": 30.1,
+   "Uppsala": 16.9,
+   "Stringency": "0",
+   "Comment": "1. With five additional cases confirmed on 27 February,the Swedish Public Health Agency ('Folkh�lsomyndigheten') put out a statement that these cases were all related to travel to high-risk zones and that there was no evidence of community transmission. 2. On 27 February, Uppsala County confirmed its first case in a woman with a travel history to Germany, where she had met with an Italian colleague, and had been admitted to Uppsala University Hospital"
+ },
+ {
+   "Date": "2/28/2020",
+   "Göteborg": 30.5,
+   "Malmö": "12.7",
+   "Stockholm": 42.6,
+   "Uppsala": 41.3,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "2/29/2020",
+   "Göteborg": 22.6,
+   "Malmö": "11.8",
+   "Stockholm": 31.9,
+   "Uppsala": 22.6,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "3/1/2020",
+   "Göteborg": 10.6,
+   "Malmö": "9",
+   "Stockholm": 16.7,
+   "Uppsala": 18.9,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "3/2/2020",
+   "Göteborg": 32.2,
+   "Malmö": "19.4",
+   "Stockholm": 28.7,
+   "Uppsala": 42.5,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "3/3/2020",
+   "Göteborg": 24.2,
+   "Malmö": "17.4",
+   "Stockholm": 30.2,
+   "Uppsala": 9.1,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "3/4/2020",
+   "Göteborg": 37.1,
+   "Malmö": "12.4",
+   "Stockholm": 27.3,
+   "Uppsala": 20.4,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "3/5/2020",
+   "Göteborg": 31.2,
+   "Malmö": "15.8",
+   "Stockholm": 27.2,
+   "Uppsala": 29.7,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "3/6/2020",
+   "Göteborg": 36.4,
+   "Malmö": "8.7",
+   "Stockholm": 38.7,
+   "Uppsala": 27.2,
+   "Stringency": "0",
+   "Comment": "On 6 March, the Ministry for Foreign Affairs advised against all non-necessary trips to northern Italy"
+ },
+ {
+   "Date": "3/7/2020",
+   "Göteborg": 20.3,
+   "Malmö": "19.4",
+   "Stockholm": 30.5,
+   "Uppsala": 20.6,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "3/8/2020",
+   "Göteborg": 11.7,
+   "Malmö": "17.8",
+   "Stockholm": 21.1,
+   "Uppsala": 12.1,
+   "Stringency": "0",
+   "Comment": ""
+ },
+ {
+   "Date": "3/9/2020",
+   "Göteborg": 34.2,
+   "Malmö": "18.6",
+   "Stockholm": 28.3,
+   "Uppsala": 30.9,
+   "Stringency": "14.28999996",
+   "Comment": ""
+ },
+ {
+   "Date": "3/10/2020",
+   "Göteborg": 31.2,
+   "Malmö": "14.3",
+   "Stockholm": 31.8,
+   "Uppsala": 30.2,
+   "Stringency": "14.28999996",
+   "Comment": " On 2 March the Ministry for Foreign Affairs advised against trips to Iran, due to the uncontrolled spread of the Covid-19 in the country"
+ },
+ {
+   "Date": "3/11/2020",
+   "Göteborg": 16.3,
+   "Malmö": "12.5",
+   "Stockholm": 21.7,
+   "Uppsala": 25.3,
+   "Stringency": "14.28999996",
+   "Comment": "The World Health Organization declared the outbreak. 1. On 11 March, the Government adopted an ordinance on a prohibition against holding public gatherings and events. 2. Due to the COVID-19 virus, the Government has announced that the sickness benefit standard deduction will temporarily be abolished in that the central government will pay sickness benefit for the first day of sickness. The ultimate aim of this measure is to reduce the spread of infection in society. The new regulation is in effect from 11 March until 11 May 2020. 3. On 11 March, the same day as the first Swedish death to COVID-19, the Swedish government passed a new law at the request of the Public Health Agency, limiting freedom of assembly by banning all gatherings larger than 500 people, with threat of fine and prison"
+ },
+ {
+   "Date": "3/12/2020",
+   "Göteborg": 13.7,
+   "Malmö": "7.9",
+   "Stockholm": 35.4,
+   "Uppsala": 32.9,
+   "Stringency": "28.56999969",
+   "Comment": ""
+ },
+ {
+   "Date": "3/13/2020",
+   "Göteborg": 36.5,
+   "Malmö": "11.3",
+   "Stockholm": 21.7,
+   "Uppsala": 20.8,
+   "Stringency": "28.56999969",
+   "Comment": ""
+ },
+ {
+   "Date": "3/14/2020",
+   "Göteborg": 32.5,
+   "Malmö": "17.4",
+   "Stockholm": 26.5,
+   "Uppsala": 26.2,
+   "Stringency": "28.56999969",
+   "Comment": "In light of the extensive spread of the COVID-19 virus and the rapidly changing and uncertain situation for travellers, the Ministry for Foreign Affairs advises against non-essential travel to all countries. Previous decisions taken by the MFA to advise against travel to specific countries or areas continue to apply. The decision to advise against travel was taken on 14 March 2020. This advice applies until 14 April 2020, when the situation will be reappraised. "
+ },
+ {
+   "Date": "3/15/2020",
+   "Göteborg": 12.7,
+   "Malmö": "9.3",
+   "Stockholm": 16.2,
+   "Uppsala": 13.3,
+   "Stringency": "28.56999969",
+   "Comment": ""
+ },
+ {
+   "Date": "3/16/2020",
+   "Göteborg": 19.6,
+   "Malmö": "13.4",
+   "Stockholm": 26.6,
+   "Uppsala": 25.1,
+   "Stringency": "28.56999969",
+   "Comment": ""
+ },
+ {
+   "Date": "3/17/2020",
+   "Göteborg": 11.6,
+   "Malmö": "12.5",
+   "Stockholm": 20.5,
+   "Uppsala": 26.6,
+   "Stringency": "28.56999969",
+   "Comment": "Zatvorene granice: Zabranjen ulazak u EU. Travel from non-EU/EEA member states was stopped on 17 March"
+ },
+ {
+   "Date": "3/18/2020",
+   "Göteborg": 13.8,
+   "Malmö": "11.1",
+   "Stockholm": 36.9,
+   "Uppsala": 32.2,
+   "Stringency": "28.56999969",
+   "Comment": ""
+ },
+ {
+   "Date": "3/19/2020",
+   "Göteborg": 14.9,
+   "Malmö": "14.4",
+   "Stockholm": 21,
+   "Uppsala": 33.4,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/20/2020",
+   "Göteborg": 25,
+   "Malmö": "11.7",
+   "Stockholm": 26.2,
+   "Uppsala": 23.6,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/21/2020",
+   "Göteborg": 33.9,
+   "Malmö": "7",
+   "Stockholm": 23,
+   "Uppsala": 16.9,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/22/2020",
+   "Göteborg": 32.9,
+   "Malmö": "10.7",
+   "Stockholm": 18.1,
+   "Uppsala": 22.6,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/23/2020",
+   "Göteborg": 19.4,
+   "Malmö": "16.9",
+   "Stockholm": 21.3,
+   "Uppsala": 28.2,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/24/2020",
+   "Göteborg": 28.4,
+   "Malmö": "20.7",
+   "Stockholm": 21.7,
+   "Uppsala": 26.4,
+   "Stringency": "42.86000061",
+   "Comment": "On 24 March 2020, the government introduced new restrictions to bars and restaurants requiring all service to be table service only. Restaurants were also recommended increase the space between the tables. Venues that do not adhere to the new restrictions could be shut down"
+ },
+ {
+   "Date": "3/25/2020",
+   "Göteborg": 32.1,
+   "Malmö": "19.6",
+   "Stockholm": 18.9,
+   "Uppsala": 27.5,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/26/2020",
+   "Göteborg": 39.2,
+   "Malmö": "22.9",
+   "Stockholm": 26.3,
+   "Uppsala": 39.1,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/27/2020",
+   "Göteborg": 48.1,
+   "Malmö": "24.7",
+   "Stockholm": 34.9,
+   "Uppsala": 36.6,
+   "Stringency": "42.86000061",
+   "Comment": "On 27 March the government announced that the ban of public gatherings would be lowered to include all gatherings of more than 50 people, to further decrease the spread of the infection, again at the request of the Public Health Agency. The ban would apply to arts and entertainment events including theatre, cinema and concerts, religious meetings, demonstrations, lectures, competitive sports, amusement parks, fairs and markets. The ban did not include gatherings in schools, workplaces, public transport, grocery stores or shopping malls, health clubs or private events"
+ },
+ {
+   "Date": "3/28/2020",
+   "Göteborg": 44.8,
+   "Malmö": "20.9",
+   "Stockholm": 18.3,
+   "Uppsala": 21.2,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/29/2020",
+   "Göteborg": 12.5,
+   "Malmö": "5.7",
+   "Stockholm": 15.5,
+   "Uppsala": 14.2,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/30/2020",
+   "Göteborg": 34,
+   "Malmö": "21.5",
+   "Stockholm": 16.4,
+   "Uppsala": 14.5,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "3/31/2020",
+   "Göteborg": 37.6,
+   "Malmö": "47.8",
+   "Stockholm": 33.3,
+   "Uppsala": 28.2,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "4/1/2020",
+   "Göteborg": 28.8,
+   "Malmö": "17.3",
+   "Stockholm": 29.1,
+   "Uppsala": 46.9,
+   "Stringency": "42.86000061",
+   "Comment": "Beginning on 1 April, all private visits to nursing homes was outlawed by the government."
+ },
+ {
+   "Date": "4/2/2020",
+   "Göteborg": 13.9,
+   "Malmö": "21.1",
+   "Stockholm": 20.7,
+   "Uppsala": 41.9,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "4/3/2020",
+   "Göteborg": 15.4,
+   "Malmö": "16.8",
+   "Stockholm": 17.2,
+   "Uppsala": 50.7,
+   "Stringency": "42.86000061",
+   "Comment": ""
+ },
+ {
+   "Date": "4/4/2020",
+   "Göteborg": 13.2,
+   "Malmö": "27.1",
+   "Stockholm": 18.4,
+   "Uppsala": 46.2,
+   "Stringency": "52.38000107",
+   "Comment": ""
+ },
+ {
+   "Date": "4/5/2020",
+   "Göteborg": 11.8,
+   "Malmö": "26.1",
+   "Stockholm": 18.3,
+   "Uppsala": 36.4,
+   "Stringency": "52.38000107",
+   "Comment": ""
+ },
+ {
+   "Date": "4/6/2020",
+   "Göteborg": 23.6,
+   "Malmö": "34.4",
+   "Stockholm": 29.1,
+   "Uppsala": 39.5,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/7/2020",
+   "Göteborg": 16.7,
+   "Malmö": "42.2",
+   "Stockholm": 33,
+   "Uppsala": 37.3,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/8/2020",
+   "Göteborg": 33.5,
+   "Malmö": "45.9",
+   "Stockholm": 20.6,
+   "Uppsala": 27.1,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/9/2020",
+   "Göteborg": 22,
+   "Malmö": "19.9",
+   "Stockholm": 30.8,
+   "Uppsala": 23.3,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/10/2020",
+   "Göteborg": 22.5,
+   "Malmö": "21.7",
+   "Stockholm": 14.7,
+   "Uppsala": 21.4,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/11/2020",
+   "Göteborg": 25.3,
+   "Malmö": "23.2",
+   "Stockholm": 14.1,
+   "Uppsala": 19.7,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/12/2020",
+   "Göteborg": 8.9,
+   "Malmö": "18.2",
+   "Stockholm": 8.6,
+   "Uppsala": 10.6,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/13/2020",
+   "Göteborg": 5.6,
+   "Malmö": "9",
+   "Stockholm": 6.4,
+   "Uppsala": 7.9,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/14/2020",
+   "Göteborg": 19.8,
+   "Malmö": "28.5",
+   "Stockholm": 13.5,
+   "Uppsala": 21.1,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/15/2020",
+   "Göteborg": 14.7,
+   "Malmö": "20.7",
+   "Stockholm": 18.6,
+   "Uppsala": 30.6,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/16/2020",
+   "Göteborg": 14.3,
+   "Malmö": "21.5",
+   "Stockholm": 13.7,
+   "Uppsala": 14.8,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/17/2020",
+   "Göteborg": 36.2,
+   "Malmö": "101.7",
+   "Stockholm": 19.5,
+   "Uppsala": 18.4,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/18/2020",
+   "Göteborg": 24.4,
+   "Malmö": "22.7",
+   "Stockholm": 23.8,
+   "Uppsala": 19.1,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/19/2020",
+   "Göteborg": 30.6,
+   "Malmö": "22.7",
+   "Stockholm": 17.1,
+   "Uppsala": 17.7,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/20/2020",
+   "Göteborg": 43.9,
+   "Malmö": "44.3",
+   "Stockholm": 28.8,
+   "Uppsala": 15.2,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/21/2020",
+   "Göteborg": 34.1,
+   "Malmö": "41.9",
+   "Stockholm": 37,
+   "Uppsala": 30,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/22/2020",
+   "Göteborg": 35.4,
+   "Malmö": "44.7",
+   "Stockholm": 35,
+   "Uppsala": 33.2,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/23/2020",
+   "Göteborg": 43.4,
+   "Malmö": "71.8",
+   "Stockholm": 34.3,
+   "Uppsala": 31.4,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/24/2020",
+   "Göteborg": 32.4,
+   "Malmö": "28.7",
+   "Stockholm": 26,
+   "Uppsala": 12.9,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/25/2020",
+   "Göteborg": 13.1,
+   "Malmö": "13.3",
+   "Stockholm": 15.3,
+   "Uppsala": 11.6,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/26/2020",
+   "Göteborg": 16,
+   "Malmö": "17.4",
+   "Stockholm": 21.4,
+   "Uppsala": 13.8,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/27/2020",
+   "Göteborg": 28.9,
+   "Malmö": "33.6",
+   "Stockholm": 30.9,
+   "Uppsala": 26.1,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/28/2020",
+   "Göteborg": 27.2,
+   "Malmö": "36.8",
+   "Stockholm": 26.3,
+   "Uppsala": 6.6,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/29/2020",
+   "Göteborg": 14.7,
+   "Malmö": "19",
+   "Stockholm": 25.3,
+   "Uppsala": 10,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "4/30/2020",
+   "Göteborg": 8.2,
+   "Malmö": "28.9",
+   "Stockholm": 33.8,
+   "Uppsala": 26.1,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "5/1/2020",
+   "Göteborg": 21.9,
+   "Malmö": "30.6",
+   "Stockholm": 20.7,
+   "Uppsala": 11.5,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "5/2/2020",
+   "Göteborg": 16.4,
+   "Malmö": "21.8",
+   "Stockholm": 17.7,
+   "Uppsala": 15.7,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "5/3/2020",
+   "Göteborg": 13.8,
+   "Malmö": "16.3",
+   "Stockholm": 20.9,
+   "Uppsala": 13.9,
+   "Stringency": "NA",
+   "Comment": ""
+ },
+ {
+   "Date": "5/4/2020",
+   "Göteborg": 22.8,
+   "Malmö": "13.9",
+   "Stockholm": 24,
+   "Uppsala": 12.8,
+   "Stringency": "NA",
+   "Comment": ""
+ }
+]
